@@ -20,7 +20,7 @@ End to end ML pipeline that pulls live SpaceX API v4 data, enriches it with Open
 
 Analyzed **350,000 microservice response logs** to benchmark two network configurations. Proved Config Y was 29% faster (54ms vs 76ms avg) via Mann-Whitney U testing, and modeled network impact on latency with a linear regression achieving 23.52ms MAE ultimately recommending a migration that cut SLA breach costs by **93%**.
 
-### [EMReport — Unified ML Evaluation Framework](https://github.com/Alkiviadisss/EMReport)
+### [EMReport: Unified ML Evaluation Framework](https://github.com/Alkiviadisss/EMReport)
 `Python` `scikit-learn` `PyPI`
 
 A published PyPI package that standardizes supervised and unsupervised model diagnostics into a single, consistent API eliminating the boilerplate scattered across native scikit-learn utilities.
