@@ -77,5 +77,5 @@ Worked in a 4-person team on the DQS NHIS dataset. Identified key correlations b
 
 ## Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-mst01256@uowm.gr-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alkiviadisagrogiannhs@gmail.com)
+[![Email](https://img.shields.io/badge/Email-alkiviadisagrogiannhs.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alkiviadisagrogiannhs@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Alkiviadisss-181717?style=flat&logo=github&logoColor=white)](https://github.com/Alkiviadisss/)
