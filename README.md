@@ -4,7 +4,7 @@
 
  I'm a 2nd Year Management Science & Technology Student @UoWM. Currently mastering Data Science with Certifications from IBM, Google, and Microsoft. Participating in Big Datathons, and Making Impactful Projects on Github.I'm a 2nd Year Management Science & Technology Student @UoWM. Currently mastering Data Science with Certifications from IBM, Google, and Microsoft. Participating in Big Datathons, and Making Impactful Projects on Github. 
 
- **Gold Medalist** — G1 Open International Taekwondo Tournament (Greek National Team, 2023)
+ **Gold Medalist** — G1 Open International Taekwondo Tournament (Greek National Representation, 2023)
 
 ---
 
