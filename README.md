@@ -2,6 +2,12 @@
 
 **Data Science | ML/AI | @ UoWM**
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alkiviadisss&show_icons=true&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkiviadisss&layout=compact&theme=radium&hide_border=true" width="48%" />
+</div>
+
+
 ![github_banner.gif](https://github.com/user-attachments/assets/8e63b7a9-d791-4b6a-adbd-8fff0cdf4932)
 
  I'm a 2nd Year Management Science & Technology Student @UoWM. Currently mastering Data Science with Certifications from IBM, Google, and Microsoft. Participating in Big Datathons, and Making Impactful Projects on Github.
