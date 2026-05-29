@@ -64,6 +64,7 @@ A published PyPI package that standardizes supervised and unsupervised model dia
 ## Certifications
 
 -  IBM Data Science
+- [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/certificate/NEHI0WJNM5MX)
 -  Google Advanced Data Analytics
 -  Microsoft Generative AI for Data Analysis
 -  IBM Data Analyst
