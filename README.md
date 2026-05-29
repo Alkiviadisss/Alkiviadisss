@@ -12,7 +12,7 @@
 
 ## Featured Projects
 
-### COOMING SOON [SpaceX Launch Predictor & Cost Optimizer](https://github.com/Alkiviadisss/)
+### COMING SOON [SpaceX Launch Predictor & Cost Optimizer](https://github.com/Alkiviadisss/)
 `Python` `XGBoost` `AWS` `Docker` `Streamlit` `SHAP`
 
 End to end ML pipeline that pulls live SpaceX API v4 data, enriches it with OpenWeather metrics, and predicts rocket booster landing outcomes with **88% F1-Score**. Includes SHAP based explainability and a risk adjusted Expected Value algorithm per mission. Containerized with Docker and deployed on AWS EC2 with S3 model artifact storage.
