@@ -42,7 +42,7 @@ A published PyPI package that standardizes supervised and unsupervised model dia
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=flat-square&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-3F51B5?style=flat-square&logo=github&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FF5A19?style=flat-square&logo=yandex&logoColor=white)
@@ -56,11 +56,12 @@ A published PyPI package that standardizes supervised and unsupervised model dia
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Infrastructure & Tools**
+**Cloud & Deployment**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=FFD43B)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ---
