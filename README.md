@@ -43,7 +43,11 @@ A published PyPI package that standardizes supervised and unsupervised model dia
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-3F51B5?style=for-the-badge&logo=github&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FF5A19?style=for-the-badge&logo=yandex&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=python&logoColor=00E5FF)
 
 **Visualization**
 
