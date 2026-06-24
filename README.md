@@ -13,7 +13,7 @@
 ## Featured Projects
 
 ### COMING SOON [SpaceX Launch Predictor & Cost Optimizer](https://github.com/Alkiviadisss/)
-`Python` `XGBoost` `AWS` `Docker` `Streamlit` `SHAP`
+`Python` `SQL` `Scikit-Learn` `XGBoost` `API` `SHAP` `Streamlit` `Docker` `AWS`
 
 Engineered a Python/SQLite pipeline to extract, merge, and preprocess real-time SpaceX and Open-Meteo API data, utilizing ColumnTransformers (One-Hot Encoding, StandardScaler) for feature engineering. Conducted inferential statistical testing (ANOVA, Chi-Square, t-tests) to validate mission success hypotheses. Optimized an XGBoost classifier (88% F1-score) utilizing GridSearchCV and TimeSeriesSplit to prevent data leakage. Developed a risk-adjusted Expected Value algorithm and integrated SHAP frameworks for model explainability. Deployed Streamlit web app via Docker to AWS EC2 (S3), translating mission probabilities into dynamic ROI calculations for stakeholders.
 
