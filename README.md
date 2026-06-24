@@ -15,7 +15,7 @@
 ### COMING SOON [SpaceX Launch Predictor & Cost Optimizer](https://github.com/Alkiviadisss/)
 `Python` `XGBoost` `AWS` `Docker` `Streamlit` `SHAP`
 
-End to end ML pipeline that pulls live SpaceX API v4 data, enriches it with OpenWeather metrics, and predicts rocket booster landing outcomes with **88% F1-Score**. Includes SHAP based explainability and a risk adjusted Expected Value algorithm per mission. Containerized with Docker and deployed on AWS EC2 with S3 model artifact storage.
+Engineered a Python/SQLite pipeline to extract, merge, and preprocess real-time SpaceX and Open-Meteo API data, utilizing ColumnTransformers (One-Hot Encoding, StandardScaler) for feature engineering. Conducted inferential statistical testing (ANOVA, Chi-Square, t-tests) to validate mission success hypotheses. Optimized an XGBoost classifier (88% F1-score) utilizing GridSearchCV and TimeSeriesSplit to prevent data leakage. Developed a risk-adjusted Expected Value algorithm and integrated SHAP frameworks for model explainability. Deployed Streamlit web app via Docker to AWS EC2 (S3), translating mission probabilities into dynamic ROI calculations for stakeholders.
 
 ### [Cloud Microservices Response Analysis](https://github.com/Alkiviadisss/Cloud-Microservices-Response-Enhancion)
 `Python` `Statistics` `Linear Regression` `Mann-Whitney U`
