@@ -10,7 +10,7 @@
 
 ---
 
-## Featured Projects
+## Featured Projects 
 
 ### [SpaceX Launch Predictor & Cost Optimizer](https://github.com/Alkiviadisss/SpaceX)
 `Python` `SQL` `Scikit-Learn` `XGBoost` `API` `SHAP` `Streamlit` `Docker` `AWS`
