@@ -2,7 +2,7 @@
 
 **Data Science | ML/AI | @ UoWM**
 
-![github_banner.gif](https://github.com/user-attachments/assets/8e63b7a9-d791-4b6a-adbd-8fff0cdf4932)
+![github_banner.gif](https://github.com/user-attachments/assets/8e63b7a9-d791-4b6a-adbd-8fff0cdf4932) 
 
  I'm a 2nd Year Management Science & Technology Student @UoWM. Currently mastering Data Science & Machine Learning with Certifications from IBM, Google, and Microsoft. Participating in Big Datathons, and Making Impactful Projects on Github.
 
