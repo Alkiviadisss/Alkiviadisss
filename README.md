@@ -80,7 +80,6 @@ A published PyPI package that standardizes supervised and unsupervised model dia
 - [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/certificate/SDUAWD401NWB)
 - [Microsoft Generative AI for Data Analysis](https://coursera.org/verify/professional-cert/certificate/LPZI5MQ13F98)
 - [IBM Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/certificate/YSNGTNLMG1ZB)
-- [Microsoft Excel](https://www.coursera.org/account/accomplishments/professional-cert/certificate/FPYGTLM0LOL2)
 
 ---
 
