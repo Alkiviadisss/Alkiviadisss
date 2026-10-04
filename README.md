@@ -95,3 +95,4 @@ Collaborated in a 4-person team Hackathon (4,300 participants). Engineered a Pyt
 
 [![Email](https://img.shields.io/badge/Email-alkiviadisagrogiannhs.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alkiviadisagrogiannhs@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Alkiviadisss-181717?style=flat&logo=github&logoColor=white)](https://github.com/Alkiviadisss/)
+[![LinkedIn](https://www.linkedin.com/in/alkiviadis-agrogiannhs)
