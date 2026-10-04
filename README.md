@@ -13,7 +13,7 @@
 ## Featured Projects   
 
 ### [Vision Transformer (ViT-B/16) - Research Paper Implementation & Fine-Tuning](https://github.com/Alkiviadisss/Vision_Transformer_From_Scratch)
-`Python` `Scikit-Learn` `PyTorch` `Transformer`
+`Python` `PyTorch` `Transformer` `TorchVision` `Scikit-Learn`
 
 Implemented the Vision Transformer (ViT-B/16) architecture from the original research paper from scratch in PyTorch, including patch embeddings, positional embeddings, multi-head self-attention, Transformer encoder blocks, LayerNorm, residual connections, and MLP layers. Performed explicit parameter mapping to transfer ImageNet-21K pretrained weights into the custom implementation and configured the model for CIFAR-10 fine-tuning. Developed the complete data preprocessing, augmentation, training, and evaluation pipeline, with model comparison and error analysis designed to assess performance, convergence, and computational cost.
 
@@ -49,6 +49,10 @@ A published PyPI package that standardizes supervised and unsupervised model dia
 ![CatBoost](https://img.shields.io/badge/CatBoost-FF5A19?style=flat-square&logo=yandex&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-000000?style=flat-square&logo=python&logoColor=00E5FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 **Visualization & BI**
 
