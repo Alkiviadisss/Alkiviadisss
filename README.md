@@ -12,15 +12,15 @@
 
 ## Featured Projects   
 
+### [Vision Transformer (ViT-B/16) - Research Paper Implementation & Fine-Tuning](https://github.com/Alkiviadisss/Vision_Transformer_From_Scratch)
+`Python` `Scikit-Learn` `PyTorch` `Transformer`
+
+Implemented the Vision Transformer (ViT-B/16) architecture from the original research paper from scratch in PyTorch, including patch embeddings, positional embeddings, multi-head self-attention, Transformer encoder blocks, LayerNorm, residual connections, and MLP layers. Performed explicit parameter mapping to transfer ImageNet-21K pretrained weights into the custom implementation and configured the model for CIFAR-10 fine-tuning. Developed the complete data preprocessing, augmentation, training, and evaluation pipeline, with model comparison and error analysis designed to assess performance, convergence, and computational cost.
+
 ### [SpaceX Launch Predictor & Cost Optimizer](https://github.com/Alkiviadisss/SpaceX)
 `Python` `SQL` `Scikit-Learn` `XGBoost` `API` `SHAP` `Streamlit` `Docker` `AWS`
 
 Engineered a Python/SQLite pipeline to extract, merge, and preprocess real-time SpaceX and Open-Meteo API data, utilizing ColumnTransformers (One-Hot Encoding, StandardScaler) for feature engineering. Conducted inferential statistical testing (ANOVA, Chi-Square, t-tests) to validate mission success hypotheses. Optimized an XGBoost classifier (88% F1-score) utilizing GridSearchCV and TimeSeriesSplit to prevent data leakage. Developed a risk-adjusted Expected Value algorithm and integrated SHAP frameworks for model explainability. Deployed Streamlit web app via Docker,  with AWS S3 for model management to translate mission probabilities into dynamic ROI calculations for stakeholders.
-
-### [Cloud Microservices Response Analysis](https://github.com/Alkiviadisss/Cloud-Microservices-Response-Enhancion)
-`Python` `Statistics` `Linear Regression` `Mann-Whitney U` 
-
-Analyzed **350,000 microservice response logs** to benchmark two network configurations. Proved Config Y was 29% faster (54ms vs 76ms avg) via Mann-Whitney U testing, and modeled network impact on latency with a linear regression achieving 23.52ms MAE ultimately recommending a migration that cut SLA breach costs by **93%**.
 
 ### [EMReport: Unified ML Evaluation Framework](https://github.com/Alkiviadisss/EMReport)
 `Python` `scikit-learn` `PyPI`
