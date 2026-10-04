@@ -75,6 +75,7 @@ A published PyPI package that standardizes supervised and unsupervised model dia
 
 ## Certifications
 
+- [Deep Learning Specialization]
 - [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/certificate/NEHI0WJNM5MX)
 - [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/certificate/SDUAWD401NWB)
 - [Microsoft Generative AI for Data Analysis](https://coursera.org/verify/professional-cert/certificate/LPZI5MQ13F98)
