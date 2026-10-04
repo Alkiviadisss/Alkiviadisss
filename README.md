@@ -85,8 +85,9 @@ A published PyPI package that standardizes supervised and unsupervised model dia
 
 ## Competitions
 
-**DubsTech Datathon 2026** University of Washington *(4,300 participants)*
-Worked in a 4-person team on the DQS NHIS dataset. Identified key correlations between out of pocket costs, disability status, and delayed care. Proposed data driven telehealth and cost reduction strategies.
+**University of Washington**
+**DubsTech Datathon 2026** *(4,300 participants)*
+Collaborated in a 4-person team Hackathon (4,300 participants). Engineered a Python data pipeline to process the DQS NHIS dataset, resolving missing values and restructuring complex demographics. Executed EDA via Pandas to statistically validate healthcare access inequities, driving actionable, data-backed cost-reduction strategies
 
 ---
 
