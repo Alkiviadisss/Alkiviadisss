@@ -12,6 +12,12 @@
 
 ## Featured Projects   
 
+### [Open-Source LLM Fine-Tuning with QLoRA](https://github.com/Alkiviadisss/Open-Source_LLM_Fine-Tuning_With_QLoRA)
+`Python` `PyTorch` `Transformer` `PEFT` `TRL`
+
+Fine-tuned a 4-billion parameter Qwen model on a financial dataset using Parameter-Efficient Fine-Tuning (PEFT) and 
+4-bit QLoRA. Built an end-to-end pipeline with Transformer Reinforcement Learning (TRL) and datasets to process 6,000+ examples, formatting multi-dimensional tabular data into structured conversational chat templates and reaching a validation loss of 0.39 with 87.6% token accuracy. Resolved mixed-precision crashes (BFloat16/FP16 conflicts) on Turing GPUs by casting trainable adapter weights to Float32. Evaluated the fine-tuned model against the base model by building a custom metrics pipeline tracking numeric extraction accuracy and exact-match improvement, raising numeric answer accuracy from 21% to 47% and exact match from 0% to 45% in a preliminary evaluation (n=20). 
+
 ### [Vision Transformer (ViT-B/16) - Research Paper Implementation & Fine-Tuning](https://github.com/Alkiviadisss/Vision_Transformer_From_Scratch)
 `Python` `PyTorch` `Transformer` `TorchVision` `Scikit-Learn`
 
@@ -21,11 +27,6 @@ Implemented the Vision Transformer (ViT-B/16) architecture from the original res
 `Python` `SQL` `Scikit-Learn` `XGBoost` `API` `SHAP` `Streamlit` `Docker` `AWS`
 
 Engineered a Python/SQLite pipeline to extract, merge, and preprocess real-time SpaceX and Open-Meteo API data, utilizing ColumnTransformers (One-Hot Encoding, StandardScaler) for feature engineering. Conducted inferential statistical testing (ANOVA, Chi-Square, t-tests) to validate mission success hypotheses. Optimized an XGBoost classifier (88% F1-score) utilizing GridSearchCV and TimeSeriesSplit to prevent data leakage. Developed a risk-adjusted Expected Value algorithm and integrated SHAP frameworks for model explainability. Deployed Streamlit web app via Docker,  with AWS S3 for model management to translate mission probabilities into dynamic ROI calculations for stakeholders.
-
-### [EMReport: Unified ML Evaluation Framework](https://github.com/Alkiviadisss/EMReport)
-`Python` `scikit-learn` `PyPI`
-
-A published PyPI package that standardizes supervised and unsupervised model diagnostics into a single, consistent API eliminating the boilerplate scattered across native scikit-learn utilities.
 
 ---
 
